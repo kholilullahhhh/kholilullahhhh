@@ -17,7 +17,7 @@ Currently working on personal projects and constantly improving my skills.
 ## 🌱 I’m currently learning...
 - **JavaScript (React, Node.js)** ⚛️
 - **Python for AI and Data Science** 📊
-- **Flutter for Mobile Development** 📱
+- **React Native for Mobile Development** 📱
 - **Cloud Technologies (AWS, Azure)** ☁️
 
 ---
