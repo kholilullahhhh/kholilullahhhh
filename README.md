@@ -12,16 +12,16 @@
   "learning": [
     "Php (Laravel) ☁️",
     "JavaScript (React, Node.js) ⚛️",
-    "React Native for Mobile Development 📱",
+    "React Native for Mobile Development 📱"
   ],
   "collaborations": [
     "Open Source Projects 👨‍💻",
     "Web & App Development 🌍",
-    "Tech Communities and Hackathons 🎯",
+    "Tech Communities and Hackathons 🎯"
   ],
   "contact": {
     "email": "muhammadkholil045@gmail.com",
     "instagram": "@kholilullahhh_"
   },
-  "Pesan": "Panas besar 1, cola 1 🌦"
+  "message": "Panas besar 1, cola 1 🌦"
 }
