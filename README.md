@@ -15,11 +15,6 @@
     "JavaScript (React, Node.js) ⚛️",
     "React Native for Mobile Development 📱"
   ],
-  "collaborations": [
-    "Open Source Projects 👨‍💻",
-    "Web & App Development 🌍",
-    "Tech Communities and Hackathons 🎯"
-  ],
   "contact": {
     "email": "muhammadkholil045@gmail.com",
     "instagram": "@kholilullahhh_"
