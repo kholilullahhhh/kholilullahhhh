@@ -1,43 +1,27 @@
-# 👋 Hi, I’m @kholilullahhhh
-
-I'm a passionate **[Tech Enthusiast]** with a love for coding and technology!  
-Currently working on personal projects and constantly improving my skills.
-
----
-
-## 👀 I’m interested in...
-- **Web Development** 🌐
-- **Mobile App Development** 📱
-- **Machine Learning & AI** 🤖
-- **Open Source Contributions** 🌍
-- **UI/UX Design** 🎨
-
----
-
-## 🌱 I’m currently learning...
-- **JavaScript (React, Node.js)** ⚛️
-- **Python for AI and Data Science** 📊
-- **React Native for Mobile Development** 📱
-- **Cloud Technologies (AWS, Azure)** ☁️
-
----
-
-## 💞️ I’m looking to collaborate on...
-- **Open Source Projects** 👨‍💻
-- **Web & App Development** 🌍
-- **Tech Communities and Hackathons** 🎯
-- **AI and Machine Learning Projects** 🤖
-
----
-
-## 📫 How to reach me...
-- **Email:** [muhammadkholil045@gmail.com](mailto:muhammadkholil045@gmail.com)
-- **Instagram:** [@kholilullahhh_](https://instagram.com/kholilullahhh_/)
----
-
-## 😄 Pronouns: he/him
-
----
-
-## ⚡ Fun fact:
-- I once built a **chatbot** that could predict the weather based on user input! 🌦
+{
+  "username": "@kholilullahhhh",
+  "name": "Muhammad Kholilullah/Luluuu",
+  "pronouns": "he/him",
+  "about": "A passionate Tech Enthusiast with a love for coding and technology. Always learning, building, and exploring.",
+  "interests": [
+    "Web Development 🌐",
+    "Mobile App Development 📱",
+    "Open Source Contributions 🌍",
+    "UI/UX Design 🎨"
+  ],
+  "learning": [
+    "Php (Laravel) ☁️",
+    "JavaScript (React, Node.js) ⚛️",
+    "React Native for Mobile Development 📱",
+  ],
+  "collaborations": [
+    "Open Source Projects 👨‍💻",
+    "Web & App Development 🌍",
+    "Tech Communities and Hackathons 🎯",
+  ],
+  "contact": {
+    "email": "muhammadkholil045@gmail.com",
+    "instagram": "@kholilullahhh_"
+  },
+  "Pesan": "Panas besar 1, cola 1 🌦"
+}
