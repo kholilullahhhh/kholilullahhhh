@@ -7,8 +7,6 @@
   "interests": [
     "Web Development 🌐",
     "Mobile App Development 📱",
-    "Open Source Contributions 🌍",
-    "UI/UX Design 🎨"
   ],
   "learning": [
     "Php (Laravel) ☁️",
