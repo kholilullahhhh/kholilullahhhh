@@ -3,7 +3,7 @@
   "username": "@kholilullahhhh",
   "name": "Muhammad Kholilullah/Luluuu",
   "pronouns": "he/him",
-  "city": "Makassar, South Sulawesi, Indonesia"
+  "city": "Makassar, South Sulawesi, Indonesia",
   "about": "A passionate Tech Enthusiast with a love for coding and technology. Always learning, building, and exploring.",
   "interests": [
     "Web Development 🌐",
