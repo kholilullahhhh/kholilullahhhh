@@ -13,7 +13,6 @@
     "Php (Laravel) ☁️",
     "JavaScript (React, Node.js) ⚛️",
     "React Native for Mobile Development 📱"
-    "C++ for CP"
   ],
   "contact": {
     "email": "muhammadkholil045@gmail.com",
