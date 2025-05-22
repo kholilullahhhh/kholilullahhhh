@@ -18,5 +18,5 @@
     "email": "muhammadkholil045@gmail.com",
     "instagram": "@kholilullahhh_"
   },
-  "message": "Double Chesseburger 1, cola 1 🌦"
+  "message": "Double Chesseburger, cola 1 🌦"
 }
