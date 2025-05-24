@@ -4,7 +4,7 @@
   "name": "Muhammad Kholilullah/Luluuu",
   "pronouns": "he/him",
   "city": "Makassar, South Sulawesi, Indonesia",
-  "about": "A Tech Enthusiast.",
+  "about": "A Tech Enthusiast",
   "interests": [
     "Web Development 🌐",
     "Mobile App Development 📱",
