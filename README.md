@@ -10,7 +10,7 @@
     "Mobile App Development 📱",
   ],
   "learning": [
-    "Php (Laravel) ☁️",
+    "Php (Laravel) 💰",
     "JavaScript (React, Node.js) ⚛️",
     "React Native for Mobile Development 📱"
   ],
@@ -18,5 +18,5 @@
     "email": "muhammadkholil045@gmail.com",
     "instagram": "@kholilullahhh_"
   },
-  "message": "Double Chesseburger, cola 1 🌦"
+  "message": "Double Chesseburger, cola 1"
 }
