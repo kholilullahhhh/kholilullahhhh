@@ -1,6 +1,6 @@
 # 👋 Hello Word
 
-```json
+```text
 {
   "username": "@kholilullahhhh",
   "name": "Muhammad Kholilullah/Luluuu",
