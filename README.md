@@ -1,3 +1,5 @@
+```json
+
 type UserProfile = {
   username: string;
   name: string;
