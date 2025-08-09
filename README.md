@@ -11,7 +11,7 @@
   ],
   "learning": [
     "Php (Laravel) 💰",
-    "JavaScript (React, Node.js) ⚛️",
+    "JavaScript (Next.js ⚛️",
     "React Native for Mobile Development 📱"
   ],
   "contact": {
