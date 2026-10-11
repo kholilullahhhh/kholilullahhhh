@@ -6,13 +6,13 @@
   "city": "Makassar, South Sulawesi, Indonesia",
   "about": "A Tech Enthusiast",
   "interests": [
-    "Web Development 🌐",
-    "Mobile App Development 📱",
+    "Web Development",
+    "Mobile App Development",
   ],
   "learning": [
-    "Php (Laravel) 💰",
-    "JavaScript (Next.js) ⚛️",
-    "React Native for Mobile Development 📱"
+    "Php (Laravel)",
+    "JavaScript (Next.js)",
+    "React Native for Mobile Development"
   ],
   "contact": {
     "email": "muhammadkholil045@gmail.com",
